@@ -5,10 +5,10 @@ import baseConfig from 'vitepress-carbon/config'
 // https://vitepress.dev/reference/site-config
 export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "OpenTelemetry Certified Associate - Study Guide",
+  description: "Notes on the OpenTelemetry Certified Associate (OTCA) exam, including key concepts, best practices, and sample questions to help you prepare for the certification.",
   srcDir: 'src',
-  //base: '/vitepress-carbon-template/', if running on github-pages, set repository name here
+  base: '/OTCA-study-guide/',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -32,7 +32,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/brenoepics/vitepress-carbon' }
+      { icon: 'github', link: 'https://github.com/rDunn28/OTCA-study-guide' }
     ]
   }
 })

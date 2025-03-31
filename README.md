@@ -1,10 +1,8 @@
-# VitePress Carbon Template
+# OpenTelemetry Certified Associate - Study Guide
 
-Welcome to the [VitePress Carbon](https://github.com/brenoepics/vitepress-carbon) Template repository!
-This template provides a sleek and modern documentation website built with [VitePress](https://vitepress.dev/), styled with Carbon Design System.
-Whether you're documenting a project, creating a knowledge base, or writing technical guides, this template offers a clean and professional layout to showcase your content.
+Welcome to a OpenTelemetry Certified Associate (OTCA) Study Guide! This repository is designed to help you prepare for the OTCA exam by providing a curated list of study materials, resources, and notes.
 
-## Getting Started
+<!-- ## Getting Started
 
 To get started with this template, follow these simple steps:
 
@@ -34,7 +32,7 @@ To get started with this template, follow these simple steps:
    yarn run docs:dev
    ```
 
-6. Open your browser and visit `http://localhost:5173` to view your documentation website.
+6. Open your browser and visit `http://localhost:5173` to view your documentation website. -->
 
 ## Available Scripts
 
