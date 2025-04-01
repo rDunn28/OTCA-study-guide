@@ -8,7 +8,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: "OpenTelemetry Certified Associate - Study Guide",
   description: "Notes on the OpenTelemetry Certified Associate (OTCA) exam, including key concepts, best practices, and sample questions to help you prepare for the certification.",
   srcDir: 'src',
-  base: '/src/',
+  base: '/',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
