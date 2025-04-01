@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Dive in
-      link: /OTCA_Curriculum # Link to the curriculum page
+      link: /otca_curriculum
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
@@ -25,10 +25,10 @@ features:
     linkText: Learn More
     link: https://www.cncf.io/training/certification/otca/
   - icon: 📚
-    title: Learning Resources
+    title: Curriculum
     details: A curated list of study materials, including documentation, courses.
-    link: /learning-resources
-    linkText: Explore Resources
+    link: /otca_curriculum
+    linkText: Explore Curriculum
   - icon: 📝
     title: Contributing
     details: Contributions are welcome! If you have suggestions for additional resources or improvements, please open an issue or submit a pull request on GitHub.
