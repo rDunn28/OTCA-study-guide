@@ -3,20 +3,20 @@
 layout: home
 
 hero:
-  name: "OTCA - Study Guide"
-  # text: "OpenTelemetry Certified Associate (OTCA) - Study Guide"
-  tagline: My notes on study materials for the OpenTelemetry Certified Associate (OTCA) exam. This is a work in progress and will be updated as I study.
-  icon: 🚧
-  # image:
-  #   src: ./bg.svg
-  #   alt: Banner
+  name: "OpenTelemetry Certified Associate"
+  text: "Study Guide"
+  tagline: Notes on study materials for the OpenTelemetry Certified Associate (OTCA) exam. This is a work in progress and will be updated as I study.
+  icon: 🔭
+  image:
+    src: ./img/otca-logo.png
+    alt: Banner
   actions:
     - theme: brand
       text: Dive in
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 features:
   - icon: 📡

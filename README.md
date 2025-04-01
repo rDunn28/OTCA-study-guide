@@ -10,10 +10,9 @@ guide is to provide a comprehensive and easy-to-follow resource for anyone
 preparing for the exam. The content is structured to cover all the key topics
 outlined in the [OpenTelemetry Certified Associate exam syllabus](https://www.cncf.io/training/certification/otca/).
 
-The study guide is built using [VitePress](https://vitepress.dev/), a static
- site site generator powered by Vite. VitePress is designed for writing
-documentation and is optimized for performance, making it a great choice for
-creating a study guide like this one.
+The study guide is built using [VitePress](https://vitepress.dev/), with the
+[carbon-starter theme](https://carbon.breno.tech/), which provides a clean and modern interface for reading
+the documentation. 
 
 View the site here: [OpenTelemetry Certified Associate Study Guide](https://rdunn28.github.io/OTCA-study-guide/)
 
