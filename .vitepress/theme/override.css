@@ -1,0 +1,8 @@
+/* Override -webkit-text-fill-color to purple */
+.clip[data-v-e6d7ca1f] {
+    -webkit-text-fill-color: rgb(79, 98, 173);
+}
+
+.VPButton.brand[data-v-0cfeaedd] {
+    background-color: rgb(79, 98, 173);
+}
