@@ -10,7 +10,8 @@ A FREE course available from Cloud Native Training Courses for OpenTelemetry:
 
 ## Breakdown
 
-The curriculum is divided into several sections, each covering key concepts and practices related to OpenTelemetry:
+The curriculum is divided into several sections, each covering key concepts and
+ practices related to OpenTelemetry:
 
 1. **Fundamentals of Observability**  
     - Telemetry Data  
