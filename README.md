@@ -1,38 +1,21 @@
-# OpenTelemetry Certified Associate - Study Guide
+# 🔭 OpenTelemetry Certified Associate - Study Guide
 
-Welcome to a OpenTelemetry Certified Associate (OTCA) Study Guide! This repository is designed to help you prepare for the OTCA exam by providing a curated list of study materials, resources, and notes.
+> 🚧 This repo and site is currently under construction
 
-<!-- ## Getting Started
+Welcome to a OpenTelemetry Certified Associate (OTCA) Study Guide!
 
-To get started with this template, follow these simple steps:
+This repository is collection of my notes and resources that helped me learn and
+prepare for the OpenTelemetry Certified Associate exam. The goal of this study
+guide is to provide a comprehensive and easy-to-follow resource for anyone
+preparing for the exam. The content is structured to cover all the key topics
+outlined in the [OpenTelemetry Certified Associate exam syllabus](https://www.cncf.io/training/certification/otca/).
 
-1. Click on the **"Use this template"** button to create a new repository based on this template.
+The study guide is built using [VitePress](https://vitepress.dev/), a static
+ site site generator powered by Vite. VitePress is designed for writing
+documentation and is optimized for performance, making it a great choice for
+creating a study guide like this one.
 
-2. Clone your newly created repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
-
-3. Navigate into the cloned repository directory:
-   ```
-   cd your-repository
-   ```
-
-4. Install dependencies using npm or yarn:
-   ```
-   npm install
-   # or
-   yarn install
-   ```
-
-5. Start the development server:
-   ```
-   npm run docs:dev
-   # or
-   yarn run docs:dev
-   ```
-
-6. Open your browser and visit `http://localhost:5173` to view your documentation website. -->
+View the site here: [OpenTelemetry Certified Associate Study Guide](https://rdunn28.github.io/OTCA-study-guide/)
 
 ## Available Scripts
 
@@ -42,12 +25,15 @@ To get started with this template, follow these simple steps:
 
 ## Contributing
 
-If you find any issues, or you have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
+If you find any issues, or you have suggestions for improvements, feel free
+ to open an issue or submit a pull request. Contributions are welcome!
 
 ## License
 
-This template is open-source and available under the [MIT License](LICENSE). Feel free to customize and use it for your projects.
+This template is open-source and available under the [MIT License](LICENSE).
+ Feel free to customize and use it for your projects.
 
 ---
 
-Happy documenting! If you have any questions or need further assistance, don't hesitate to reach out.
+Happy documenting! If you have any questions or need further assistance, don't
+hesitate to reach out.
