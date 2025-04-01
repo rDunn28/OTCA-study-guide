@@ -11,8 +11,8 @@ preparing for the exam. The content is structured to cover all the key topics
 outlined in the [OpenTelemetry Certified Associate exam syllabus](https://www.cncf.io/training/certification/otca/).
 
 The study guide is built using [VitePress](https://vitepress.dev/), with the
-[carbon-starter theme](https://carbon.breno.tech/), which provides a clean and modern interface for reading
-the documentation. 
+[carbon-starter theme](https://carbon.breno.tech/), which provides a clean and
+modern interface for reading the documentation.
 
 View the site here: [OpenTelemetry Certified Associate Study Guide](https://rdunn28.github.io/OTCA-study-guide/)
 

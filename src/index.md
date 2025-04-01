@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Dive in
-      link: /markdown-examples
+      link: /OTCA_Curriculum # Link to the curriculum page
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples

@@ -23,10 +23,13 @@ export default defineConfigWithTheme<ThemeConfig>({
     
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Guide',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Curriculum', link: '/otca_curriculum' },
+          { text: 'Fundamentals of Observability', link: '/fundamentals' },
+          { text: 'The OpenTelemetry API and SDK', link: '/otel-api-sdk' },
+          { text: 'The OpenTelemtry Collector', link: '/otel-collector' },
+          { text: 'Maintaining and Debugging Observability Pipelines', link: '/pipeline' }
         ]
       }
     ],
